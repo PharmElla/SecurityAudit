@@ -1,6 +1,8 @@
 # Controls and Compliance Checklist
 
 ## [Access checklist here](https://docs.google.com/document/d/1r3J8unSvUKdXVwJJ_kfD3LFh86l33VYH2TgDD2_FLq4/edit?usp=sharing)
+## [Audit_Controls and compliance checklist.pdf](https://github.com/user-attachments/files/20538511/Audit_Controls.and.compliance.checklist.pdf)
+
 
 # Recommendations: 
 
