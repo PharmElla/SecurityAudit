@@ -13,7 +13,7 @@ ensure that they comply with regulations related to internally processing and ac
 - Controls and Complaince Checklist
 
 ## Activity
-In this activity, I carefully reviewed the provided Scope, Goals, and Risk Assessment Report for the company, pictured the current security posture of the company and compared them to existing standards for complaince and regulation noting the standards they were meeting and those they fell short of. 
+In this activity, I carefully reviewed the provided Scope, Goals, and Risk Assessment Report for the company, pictured the current security posture of the company and compared them to existing standards for complaince and regulation noting the standards they were meeting and those they fell short of as I completed the controls and compliance checklist.
 
 I discovered that the company was vulnerable to data breaches and cyber attacks due to a host of controls that they have failed to implement which would cost the company a lot of money, their reputation, and hinder business continuity following attacks. These include lack of encryption for customer PII and SPII such as credit card information, poor access control and authorization, nominal password policies and password management system, no backups and disaster recovery plans, lack of an IDS, and poor monitoring for legacy systems.
 
